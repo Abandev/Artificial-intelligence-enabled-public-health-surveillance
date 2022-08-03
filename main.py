@@ -12,3 +12,7 @@ dataset.head()
 
 print("Cancer data set dimensions : {}".format(dataset.shape))
 Cancer data set dimensions : (569, 32)
+
+
+print("Cancer data set dimensions : {}".format(dataset.shape))
+Cancer data set dimensions : (569, 32)
